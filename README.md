@@ -2,7 +2,7 @@
 
 This is a small component challenge provided by [Frontend Mentor](https://www.frontendmentor.io), built solely with HTML and CSS, and instructed by Kevin Powell.
 
-![Results-Summary Component Challenge](https://imgur.com/a/T4zMSFj)
+![Results-Summary Component Challenge](https://i.imgur.com/tXJxsAf.png)
 
 ### What I've learned
 
