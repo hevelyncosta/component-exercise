@@ -10,3 +10,4 @@ In this project, I've had the opportunity to solidify concepts such as:
 
 - The usage of data attributes to style specific elements.
 - CSS variables and the advantage of nesting them in some cases.
+- Styled components approach.
